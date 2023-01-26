@@ -1,2 +1,3 @@
 codecov:
   token: secret:eB8EFoOdXjvV5BGCkR+nCxMxNWJZqjpnfqPhrzFs6skp+IqoITDObS95TQwCvpUDISWyi3SeoJSrbbPubPUPWtgHjVIDg86fXQARSadlv5E=
+  $ pip install vulture:
